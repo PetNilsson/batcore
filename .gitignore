@@ -1,7 +1,5 @@
 *.pyc
 *.pyo
-app.db
-search.db
-flask
+flask/
 *.mo
 .idea
