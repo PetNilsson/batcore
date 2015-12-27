@@ -1,0 +1,1 @@
+SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://BaTAPI:r8Os9#h7A@server.pelotek.se/bookatentmain?charset=utf8&use_unicode=0'
